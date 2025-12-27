@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "email": "alice@example.com",
+    "address": {
+      "city": "New York",
+      "country": "USA"
+    },
+    "tags": ["premium", "early_adopter"]
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "email": "bob@example.com",
+    "address": {
+      "city": "London",
+      "country": "UK"
+    },
+    "tags": ["standard"]
+  },
+  {
+    "id": 3,
+    "name": "Charlie Davis",
+    "email": "charlie@example.com",
+    "address": {
+      "city": "Toronto",
+      "country": "Canada"
+    },
+    "tags": ["premium", "enterprise"]
+  },
+  {
+    "id": 4,
+    "name": "Diana Martinez",
+    "email": "diana@example.com",
+    "address": {
+      "city": "Madrid",
+      "country": "Spain"
+    },
+    "tags": ["standard", "trial"]
+  },
+  {
+    "id": 5,
+    "name": "Ethan Wilson",
+    "email": "ethan@example.com",
+    "address": {
+      "city": "Sydney",
+      "country": "Australia"
+    },
+    "tags": ["premium"]
+  },
+  {
+    "id": 6,
+    "name": "Fiona Brown",
+    "email": "fiona@example.com",
+    "address": {
+      "city": "New York",
+      "country": "USA"
+    },
+    "tags": ["enterprise", "early_adopter"]
+  },
+  {
+    "id": 7,
+    "name": "George Taylor",
+    "email": "george@example.com",
+    "address": {
+      "city": "London",
+      "country": "UK"
+    },
+    "tags": ["standard"]
+  },
+  {
+    "id": 8,
+    "name": "Hannah Lee",
+    "email": "hannah@example.com",
+    "address": {
+      "city": "Singapore",
+      "country": "Singapore"
+    },
+    "tags": ["premium", "beta_tester"]
+  }
+]
